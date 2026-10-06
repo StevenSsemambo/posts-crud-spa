@@ -5,7 +5,7 @@ with sign up / log in, comments, caching and optimistic updates.
 
 ## Video walkthrough
 
-**Video URL:** `PASTE_YOUR_PUBLIC_VIDEO_LINK_HERE`
+**Video URL:** https://youtu.be/-pwAM8Pem-Q
 
 ## Run it
 
